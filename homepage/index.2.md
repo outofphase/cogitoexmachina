@@ -1,0 +1,1 @@
+../docs/opinion/20181230_first_post.md

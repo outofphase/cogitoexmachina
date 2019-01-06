@@ -1,0 +1,8 @@
+site_name: cogito ex machina
+nav:
+        - Home: 'index.md'
+        - Opinion: 'opinion/posts.md'
+        - Research: 'research/reviews.md'
+        - References : 'biblio.md'
+        - Links: 'sites.md'
+        - About: 'about.md'
