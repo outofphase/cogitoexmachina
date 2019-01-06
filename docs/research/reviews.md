@@ -8,3 +8,17 @@ A key point is that this shows an AI with sufficient planning skills can discove
 
 [Read more...](20181229_armstrong_ai_toy_control.md)
 
+------
+
+### Enlightenment Now by Steven Pinker (2018)
+
+### _The Case for Reason, Science, Humanism and Progress_
+
+_31st December 2018_
+
+Presents a positive vision of a new Age of Enlightenment in which human intelligence and culture is shown to be improving the lot of humanity.
+
+This vision is presented as a counterpoint to what Pinker sees as all too prevalent intellectual pessimism, but sadly it ends up becoming smug, unenlightened sneering at other contemporary intellectual discovery.
+
+[Read more...](20181231_enlightenment_now_pinker.md)
+
