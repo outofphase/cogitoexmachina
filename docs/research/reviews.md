@@ -1,3 +1,17 @@
+# Reviews
+
+## December 2018
+
+### Superintelligence by Nick Bostrom (2014)
+
+_28th December 2018_
+
+A comprehensive review the existential risk posed by Artificial Intelligence and in particular by the possibility of a rapid _intelligence explosion_, and strategies to mitigate this risk.
+
+Concludes that although the timing and form of *Superintelligence* is uncertain, the risks are real and argues that urgent research into various problems is needed to allow us to take precautionary steps.
+
+[Read more...](20181228_superintelligence_bostrom.md)
+
 ### AI Toy Control Problem - Stuart Armstrong (2017)
 
 _29th December 2018_
