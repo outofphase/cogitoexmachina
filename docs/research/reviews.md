@@ -12,6 +12,8 @@ Concludes that although the timing and form of *Superintelligence* is uncertain,
 
 [Read more...](20181228_superintelligence_bostrom.md)
 
+------
+
 ### AI Toy Control Problem - Stuart Armstrong (2017)
 
 _29th December 2018_
