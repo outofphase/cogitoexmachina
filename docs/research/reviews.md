@@ -24,3 +24,13 @@ A key point is that this shows an AI with sufficient planning skills can discove
 
 [Read more...](20181229_armstrong_ai_toy_control.md)
 
+------
+
+### Interview by Lex Fridman - Steven Pinker (2018)
+
+_30th December 2018_
+
+Pinker says that two kinds of _existential threat_ have been discussed and he claims that both are incoherent, and furthermore that it's not worth spending too much time worrying about this because engineering culture is to test systems before using them.
+
+[Read more...](20181230_pinker_fridman.md)
+
