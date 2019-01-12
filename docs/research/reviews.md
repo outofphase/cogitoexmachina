@@ -38,7 +38,7 @@ Pinker says that two kinds of _existential threat_ have been discussed and he cl
 
 ### Enlightenment Now by Steven Pinker (2018)
 
-### _The Case for Reason, Science, Humanism and Progress_
+_**The Case for Reason, Science, Humanism and Progress**_
 
 _31st December 2018_
 

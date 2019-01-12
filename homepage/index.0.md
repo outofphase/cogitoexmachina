@@ -1,6 +1,6 @@
 # _cogito ex machina_
 
-My investigations into Artificial General Intelligence and related topics, especially philosophical questions about the limits of machine intelligence and the consequences of a possible intelligence explosion. 
+Investigations into Artificial General Intelligence and related topics, especially philosophical questions about the limits of machine intelligence and the consequences of a possible intelligence explosion.
 
 _cogito ex machina_ has two main sections:
 

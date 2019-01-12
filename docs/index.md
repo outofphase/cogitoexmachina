@@ -1,6 +1,6 @@
 # _cogito ex machina_
 
-My investigations into Artificial General Intelligence and related topics, especially philosophical questions about the limits of machine intelligence and the consequences of a possible intelligence explosion. 
+Investigations into Artificial General Intelligence and related topics, especially philosophical questions about the limits of machine intelligence and the consequences of a possible intelligence explosion.
 
 _cogito ex machina_ has two main sections:
 
@@ -10,6 +10,27 @@ _cogito ex machina_ has two main sections:
 For more information see [About _cogito ex machina_](./about.md).
 
 ------
+
+### Coherent arguments about the existential risk of Artificial Intelligence
+
+_1st January 2019_
+
+> I wanted to call this "_Steven Pinker was sent by Skynet to fool us!_" but the joke might have backfired
+
+In an [October 2018 interview](https://youtu.be/epQxfSp-rdU?t=1) the Harvard academic and author Steven Pinker said that:
+
+* he finds arguments about the existential threat of AI to be [incoherent](https://youtu.be/epQxfSp-rdU?t=671)
+* and that we should 'trust the engineers'.
+
+When asked about a [tweet by Elon Musk](https://twitter.com/elonmusk/status/968560525088055296?lang=en) about the difference between narrow AI and AGI, Steven Pinker waved it away, implied that Elon Musk is a hot-head and said that this was not the last time that ["Elon Musk has fired off an intemperate tweet"](https://youtu.be/epQxfSp-rdU?t=659).
+
+Although that may be true, it doesn't prove Pinker's point about AI not being worth spending too much time worrying about, so this short animated video examines Pinker's assertions, coolly.
+
+TODO: video review
+
+TODO: slides contra Pinker
+
+TODO: commentary contra Pinker
 
 ### Welcome to _cogito ex machina_
 
