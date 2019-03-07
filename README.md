@@ -1,6 +1,6 @@
 # README
 
-This repository holds the current contents and some future drafts of the [cogito ex machina][https://outofphase.github.io/cogitoexmachina/] website.
+This repository holds the current contents and some future drafts of the (cogito ex machina)[https://outofphase.github.io/cogitoexmachina/] website.
 
 The website records my investigations into Artificial General Intelligence, and is part notes and part blog.
 
@@ -37,7 +37,7 @@ Fork the repository on GitHub and modify the directory structure and/or `mkdoc.y
 
 CIone the respository from GitHub.
 
-Install `mkdocs` and read about it on the [**mkdocs** site][https://www.mkdocs.org/].
+Install `mkdocs` and read about it on the [**mkdocs** site](https://www.mkdocs.org/.
 
 Run the `mkindex.sh`script to generate `docs/index.md` from the contents of `homepage/`.
 
